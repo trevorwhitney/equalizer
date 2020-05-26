@@ -1,0 +1,10 @@
+19 Hz BW 0.93 8ve Gain 3.9 db
+57 Hz BW 1.08 8ve Gain -2.3 db
+73 Hz BW 0.35 8ve Gain 6.7 db
+154 Hz BW 1.58 8ve Gain -3.8 db
+342 Hz BW 1.02 8ve Gain 4.6 db
+613 Hz BW 0.61 8ve Gain -1.0 db
+2009 Hz BW 0.93 8ve Gain -3.3 db
+3247 Hz BW 0.30 8ve Gain 2.5 db
+6066 Hz BW 0.59 8ve Gain 5.8 db
+19619 Hz BW 2.43 8ve Gain -7.6 db
