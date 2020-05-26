@@ -8,4 +8,5 @@ these are my personalized settings for my own headphones.
 ### OSX
 
 [Hosting AU](http://ju-x.com/hostingau.html)
+
 [BlackHole](https://github.com/ExistentialAudio/BlackHole)
